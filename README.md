@@ -1,6 +1,6 @@
-# Générateur de QR codes statiques
+# Mon QR Code
 
-Application web locale permettant de créer des QR codes permanents pour :
+Application web locale, publiée sur [gautham.fr/tools/mon-qr-code/](https://gautham.fr/tools/mon-qr-code/), permettant de créer des QR codes permanents pour :
 
 - une URL ;
 - un contact vCard ;
